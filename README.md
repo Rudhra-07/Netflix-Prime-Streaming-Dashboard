@@ -8,6 +8,14 @@ An interactive Tableau dashboard that compares user behavior across Netflix and 
 - Built KPI cards, donut charts, heatmaps, and treemaps
 - Designed custom layout with filters and exportable PDF report
 
+##  Key Features
+- Interactive Dashboard: Built in Tableau with dynamic visualizations and responsive filtering to explore user behavior.
+- KPI Highlights: Key metrics such as total users, average watch duration, rewatch frequency, buffering time, and user ratings presented via clean KPI cards.
+- Subscription Analysis: Donut chart showing user distribution across Basic, Standard, and Premium plans for both platforms.
+- Platform Comparison: Comparative bar charts and line graphs showing differences in engagement, watch time, and performance across Netflix and Prime Video.
+- Behavioral Insights: Heatmaps and treemaps revealing how users consume content by location, device, genre, and time of day.
+- Custom Design: Dashboard aesthetics enhanced with a PowerPoint-designed background, color palettes, and organized layout for professional presentation.
+
 ##  Files Included
 - `Netflix_vs_Prime_Dashboard.twbx`: Tableau dashboard file
 - `netflix_prime_streaming_data.xlsx`: Source data
@@ -17,6 +25,12 @@ An interactive Tableau dashboard that compares user behavior across Netflix and 
 ##  Tools Used
 - Tableau 
 - Microsoft Excel
+
+##  Outcome
+- Provided a clear, data-driven comparison of Netflix and Prime Video performance and user behavior.
+- Enabled stakeholders to identify content preferences, optimize user experience, and improve subscription strategies.
+- Demonstrated strong skills in data visualization, business intelligence, and user-centric analytics using Tableau.
+- Created a reusable, professional-quality dashboard ready for interviews, job applications, and real-world business analysis.
 
 ## 📷 Dashboard Preview
 
