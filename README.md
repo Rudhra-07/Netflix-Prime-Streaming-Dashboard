@@ -22,9 +22,14 @@ An interactive Tableau dashboard that compares user behavior across Netflix and 
 - `Netflix_vs_Prime_Dashboard.png`: Screenshot of dashboard
 - `Dashboard_Report.pdf`: Exported PDF report
 
+## 📷 Dashboard Preview
+
+![Dashboard Preview](https://github.com/Rudhra-07/Netflix-Prime-Streaming-Dashboard/blob/main/Netflix%20vs%20Prime%20Dashboard.png)
+
 ##  Tools Used
 - Tableau 
 - Microsoft Excel
+- Power Point
 
 ##  Outcome
 - Provided a clear, data-driven comparison of Netflix and Prime Video performance and user behavior.
@@ -32,7 +37,6 @@ An interactive Tableau dashboard that compares user behavior across Netflix and 
 - Demonstrated strong skills in data visualization, business intelligence, and user-centric analytics using Tableau.
 - Created a reusable, professional-quality dashboard ready for interviews, job applications, and real-world business analysis.
 
-## 📷 Dashboard Preview
-
-![Dashboard Preview](https://github.com/Rudhra-07/Netflix-Prime-Streaming-Dashboard/blob/main/Netflix%20vs%20Prime%20Dashboard.png)
+## 👨‍💻 Author
+Vinothkumar V – Aspiring Data Analyst
 
