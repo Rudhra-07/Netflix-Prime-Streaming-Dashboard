@@ -11,7 +11,7 @@ An interactive Tableau dashboard that compares user behavior across Netflix and 
 ##  Files Included
 - `Netflix_vs_Prime_Dashboard.twbx`: Tableau dashboard file
 - `netflix_prime_streaming_data.xlsx`: Source data
-- `dashboard_preview.png`: Screenshot of dashboard
+- `Netflix_vs_Prime_Dashboard.png`: Screenshot of dashboard
 - `Dashboard_Report.pdf`: Exported PDF report
 
 ##  Tools Used
