@@ -34,5 +34,5 @@ An interactive Tableau dashboard that compares user behavior across Netflix and 
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview]([dashboard_preview.png](https://github.com/Rudhra-07/Netflix-Prime-Streaming-Dashboard/blob/main/Netflix%20vs%20Prime%20Dashboard.png))
 
